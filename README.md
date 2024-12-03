@@ -13,7 +13,7 @@ Automation enthusiast on a mission to innovate! 🚀 Passionate about turning ma
   <a href="https://www.linkedin.com/in/haris-shahzad786/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/haris78866" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:arainharis@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://harisshahzadtech.blogspot.com"><img alt="Blog" src="https://img.shields.io/badge/Personal%20Blog-20B2AA?style=for-the-badge" /></a>
+  <a href="https://www.blogger.com/profile/06448554830278585826"><img alt="Blog" src="https://img.shields.io/badge/Personal%20Blog-20B2AA?style=for-the-badge" /></a>
 </div>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
