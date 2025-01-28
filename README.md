@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋</h1>                  
-
+                                                      
 I'm **Haris** aka **Zen**, currently in my 4th semester of **Computer Science** at **FAST-NUCES** and a member of **COLAB (Research Lab)** in Tire 3.
 I'm currently exploring **AI/ML** in its early stages, and also focusing on improving my problem-solving techniques.
 🐧 Proud user of **Arch-based Linux** | Command line is my playground.<br>
