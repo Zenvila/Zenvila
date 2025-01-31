@@ -4,7 +4,7 @@ I'm **Haris** aka **Zen**, currently in my 4th semester of **Computer Science** 
 I'm currently exploring **AI/ML** in its early stages, and also focusing on improving my problem-solving techniques.
 🐧 Proud user of **Arch-based Linux** | Command line is my playground.<br>
                                                 
-I'm interested in Automation & Robotics <br>
+I'm interested in Automation & Robotics <br>              
 Automation enthusiast on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.
 <hr>                                                        
 <h1 align="center">Socials</h1>
