@@ -8,7 +8,7 @@ I'm interested in Automation & Robotics <br>
 Automation enthusiast on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.
 <hr>                                                                                                             
 <h1 align="center">Socials</h1>
-<hr>
+<hr>                            
 <div align="center">
   <a href="https://www.linkedin.com/in/haris-shahzad786/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/haris78866" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
