@@ -6,7 +6,7 @@ I'm currently exploring **AI/ML** in its early stages, and also focusing on impr
                                                 
 I'm interested in Automation & Robotics <br>                                                                                 
 Automation enthusiast on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.
-<hr>                                                        
+<hr>                                                                                                             
 <h1 align="center">Socials</h1>
 <hr>
 <div align="center">
