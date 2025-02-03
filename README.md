@@ -11,12 +11,12 @@ Automation enthusiast on a mission to innovate! 🚀 Passionate about turning ma
 <hr>                            
 <div align="center">
   <a href="https://www.linkedin.com/in/haris-shahzad786/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/haris78866" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://zenteknik.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge" /></a>
+</div>
   <a href="mailto:arainharis@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.blogger.com/profile/06448554830278585826"><img alt="Blog" src="https://img.shields.io/badge/Personal%20Blog-20B2AA?style=for-the-badge" /></a>
   <a href="https://drive.google.com/file/d/18i7aOvmwo441PY-LfgmqT-Jwy1ulrY_4/view?usp=drive_link" target="_blank"><img alt="CV" src="https://img.shields.io/badge/Personal%20CV-8A2BE2?style=for-the-badge" /></a>
-  <a href="https://zenteknik.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge" /></a>
-</div>
+  
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
