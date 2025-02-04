@@ -7,7 +7,7 @@
 <p>I'm interested in <strong>Automation & Robotics</strong> <br> Automation enthusiast on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.</p>
 
 <hr>
-
+                              
 <h1 align="center">Socials</h1>
 
 <hr>
