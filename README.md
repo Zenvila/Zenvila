@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/haris-shahzad786/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://zenteknik.github.io/" target="_blank">
+  <a href="https://zenvila.github.io/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge" />
   </a>
 </div>
