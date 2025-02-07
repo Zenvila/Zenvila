@@ -52,5 +52,5 @@
 </table>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenvil&layout=compact&theme=dark" alt="Haris-Shahzad" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenvila&layout=compact&theme=dark" alt="Haris-Shahzad" /></p>
 </div>
