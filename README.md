@@ -46,8 +46,8 @@
 
 <table>
   <tr>
-    <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=zenvil&show_icons=true&theme=dark" /></td>
-    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenvil&layout=compact&theme=dark" /></td>
+    <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=zenvila&show_icons=true&theme=dark" /></td>
+    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenvila&layout=compact&theme=dark" /></td>
   </tr>
 </table>
 
