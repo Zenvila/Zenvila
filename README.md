@@ -24,7 +24,7 @@
   <a href="mailto:arainharis@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.blogger.com/profile/06448554830278585826">
+  <a href="https://https://hashnode.com/@Zenvila">
     <img alt="Blog" src="https://img.shields.io/badge/Personal%20Blog-20B2AA?style=for-the-badge" />
   </a>
   <a href="https://drive.google.com/file/d/18i7aOvmwo441PY-LfgmqT-Jwy1ulrY_4/view?usp=drive_link" target="_blank">
