@@ -27,7 +27,7 @@
   <a href="https://hashnode.com/@Zenvila">
     <img alt="Blog" src="https://img.shields.io/badge/Personal%20Blog-20B2AA?style=for-the-badge" />
   </a>
-  <a href="https://drive.google.com/file/d/18i7aOvmwo441PY-LfgmqT-Jwy1ulrY_4/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1wfiXOCtzIyrKnCQDQO7i0rqcZVQaeVpw/view" target="_blank">
     <img alt="CV" src="https://img.shields.io/badge/Personal%20CV-8A2BE2?style=for-the-badge" />
   </a>
 </div>
