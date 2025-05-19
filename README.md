@@ -1,4 +1,4 @@
- <h1 align="center">Welcome 👋</h1>                                                                                                                                                
+ <h1 align="center">Welcome 👋</h1>                                                                                                                                                 
                                                                                                                                                                            <p>I'm <strong>Haris</strong> aka <strong>Zen</strong>, currently in my 4th semester of <strong>Computer Science</strong> at <strong>FAST-NUCES</strong> and a member of <strong>COLAB (Research Lab)</strong> in Tier 3.</p>
 <p>I'm currently exploring <strong>AI/ML</strong> in its early stages, and also focusing on improving my problem-solving techniques.</p>
 <p>🐧 Proud user of <strong>Arch Linux</strong> | Command line is my playground.</p>           
@@ -36,7 +36,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,vscode,nodejs,docker,arch,mongodb,ssh,puppet,chef,Django,jupyter,monit" />
+    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,vscode,nodejs,docker,arch,mongodb,neo4j,ssh,puppet,chef,Django,jupyter,monit" />
   </a>
 </p>
 
