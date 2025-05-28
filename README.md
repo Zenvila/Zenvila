@@ -4,7 +4,7 @@
 <p>🐧 Proud user of <strong>Arch Linux</strong> | Command line is my playground.</p>           
                                                                                                                        
 <p>I'm interested in <strong>Automation & Robotics</strong> <br> Automation enthusiast on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.</p>                                                                                                                                                                                                                                                                                                                               
-<hr>
+<hr> 
                               
 <h1 align="center">Socials</h1>
 
