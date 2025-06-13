@@ -1,4 +1,4 @@
- <h1 align="center">Welcome 👋</h1>                                                                                                                                                                                                                                                                                                           
+ <h1 align="center">Welcome 👋</h1>                                                                                                                                                                                                                                                                                                            
  <p>I'm  <strong>Haris</strong> aka <strong>Zen</strong> just complete my  4th semester of <strong>Computer Science</strong> at <strong>FAST-NUCES</strong> and a member of <strong>COLAB (Research Lab)</strong> in Tier 3.</p>
 <p>I'm currently exploring <strong>AI/ML</strong> in its early stages, and also focusing on improving my problem-solving techniques.</p>
 <p>🐧 Proud user of <strong>Arch Linux</strong> | Command line is my playground.</p>           
