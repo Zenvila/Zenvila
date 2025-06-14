@@ -27,7 +27,7 @@
     <img alt="Blog" src="https://img.shields.io/badge/Personal%20Blog-20B2AA?style=for-the-badge" />
   </a>
   <a href="https://drive.google.com/file/d/1wfiXOCtzIyrKnCQDQO7i0rqcZVQaeVpw/view" target="_blank">
-    <img alt="CV" src="https://img.shields.io/badge/Personal%20CV-8A2BE2?style=for-the-badge" />
+    <img alt="CV" src="https://drive.google.com/file/d/1_hu4hfLFr-7H0ZpWo7uv9Ful5GdtQ56o/view?usp=sharing" />
   </a>
 </div>
 
