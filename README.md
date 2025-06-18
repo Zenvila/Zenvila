@@ -34,7 +34,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,vscode,nodejs,docker,arch,mongodb,kubernetes,grafana,nextjs,react,prometheous,neo4j,ssh,puppet,chef,Django,jupyter,monit" />
+    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,vscode,nodejs,docker,arch,mongodb,kubernetes,grafana,nextjs,react,express,prometheous,neo4j,ssh,puppet,chef,Django,jupyter,monit" />
   </a>
 </p>
 
