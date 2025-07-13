@@ -1,4 +1,4 @@
- <h1 align="center">Welcome 👋</h1>      
+ <h1 align="center">Welcome 👋</h1>       
  
  <p>I'm <strong>Haris</strong> aka <strong>Zen</strong>, just completed my 4th semester of <strong>Computer Science</strong> at <strong>FAST-NUCES</strong> and a member of <strong>COLAB (Research Lab)</strong> in Tier 3.</p>
 <p>I’ve completed my journey in <strong>Web Development</strong>, <strong>System Administration</strong>, and <strong>DevOps</strong> with practical hands-on experience and projects.</p>
