@@ -1,9 +1,16 @@
 <h1 align="center">Welcome 👋</h1>                         
-  <p>I'm <strong>Haris</strong> aka <strong>Zen</strong>, just completed my 4th semester of <strong>Computer Science</strong> at <strong>FAST-NUCES</strong> and a member of <strong>COLAB (Research Lab)</strong> in Tier 3.</p>
+
+<p>I'm <strong>Haris</strong> aka <strong>Zen</strong>, currently in my <strong>5th semester</strong> of <strong>Computer Science</strong> at <strong>FAST-NUCES</strong> and a member of <strong>COLAB (Research Lab)</strong> in Tier 3.</p>
+
 <p>I’ve completed my journey in <strong>Web Development</strong>, <strong>System Administration</strong>, and <strong>DevOps</strong> with practical hands-on experience and projects.</p>
-<p>I'm currently exploring <strong>AI/ML</strong> — diving into <strong>AI Systems</strong> and <strong>Embedded Intelligence</strong>, while actively improving my <strong>problem-solving techniques</strong>. I’m passionate about blending low-level system programming with real-world applications like autonomous vehicles and aerospace systems.</p>
+
+<p>I'm currently exploring <strong>AI/ML</strong> — diving into <strong>AI Systems</strong>, <strong>AI with AR/VR</strong>, and <strong>Embedded Intelligence</strong>, while actively improving my <strong>problem-solving techniques</strong>. I’m passionate about blending low-level system programming with real-world applications like autonomous vehicles and aerospace systems.</p>
+
 <p>🐧 Proud user of <strong>Arch Linux</strong> | Command line is my playground.</p>
-<p>I'm interested in <strong>Automation & Robotics</strong><br>Automation enthusiast on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.</p>
+
+<p>I'm interested in <strong>Automation & Robotics</strong><br>
+Automation enthusiast on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.</p>
+
 
                                                                                                                                                                                                   
 <hr> 
