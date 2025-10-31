@@ -52,7 +52,7 @@ Automation enthusiast on a mission to innovate! 🚀 Passionate about turning ma
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,vscode,nodejs,docker,arch,mongodb,kubernetes,grafana,nextjs,react,express,terraform,ansible,aws,oracle,RaspberryPi,prometheous,neo4j,ssh,puppet,chef,Django,jupyter,monit" />
+    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,vscode,nodejs,docker,arch,mongodb,kubernetes,grafana,nextjs,react,express,terraform,ansible,aws,RaspberryPi,prometheous,neo4j,ssh,puppet,chef,Django,jupyter,monit" />
   </a>
 </p>
 
