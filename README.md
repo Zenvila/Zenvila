@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋</h1>                                                                                                                                                                                     
+<h1 align="center">Welcome 👋</h1>
 
 <p>I'm <strong>Haris</strong> aka <strong>Zen</strong>, currently in my <strong>5th semester</strong> of <strong>Computer Science</strong> at <strong>FAST-NUCES</strong> and a member of <strong>COLAB (Research Lab)</strong> in Tier 3.</p> 
 
@@ -8,8 +8,15 @@
 
 <p>🐧 Proud user of <strong>Arch Linux</strong> | Command line is my playground.</p>
 
+<p>☁️ <strong>Oracle Certified Cloud Associate (OCI Foundations 2025)</strong> — Empowered by <strong>Oracle Cloud</strong> to design, scale, and automate in the modern cloud era.  
+Exploring cloud architecture, high availability, and distributed systems with a focus on automation and intelligent infrastructure.</p>
+
 <p>I'm interested in <strong>Automation & Robotics</strong><br>
 Automation enthusiast on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Certified-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Certified Badge"/>
+</p>
 
 
                                                                                                                                                                                                   
