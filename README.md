@@ -1,4 +1,4 @@
- <h1 align="center">Welcome 👋</h1>                                                                    
+ <h1 align="center">Welcome 👋</h1>                                                                      
 
 <p>I'm <strong>Haris</strong> aka <strong>Zen</strong>, currently in my <strong>5th semester</strong> of <strong>Computer Science</strong> at <strong>FAST-NUCES</strong> and a member of <strong>COLAB (Research Lab)</strong> in Tier 3.</p> 
 
