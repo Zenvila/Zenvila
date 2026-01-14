@@ -19,10 +19,12 @@
 <p align="left">
    <strong>Core Competencies:</strong> Web Development, System Administration, DevOps, and AI/ML.
  <br><br>
-   <strong>Currently Exploring:</strong> Reinforcement Learning (Hardware Perspective), Embedded Intelligence, and Robotics.
+   <strong>Currently Exploring:</strong> Computer Vision, Reinforcement Learning (Hardware Perspective), Embedded Intelligence, and Robotics.
  <br><br>
    <strong>Daily Driver:</strong> Proud <strong>Arch Linux</strong> user. The command line is my playground.
 </p>
+
+<hr>
 
 <h3 align="center">🏆 Certifications</h3>
 
