@@ -50,7 +50,7 @@
   <a href="https://zenvila.github.io/posts/">
     <img alt="Blog" src="https://img.shields.io/badge/Personal%20Blog-20B2AA?style=for-the-badge" />
   </a>
-  <a href="https://drive.google.com/file/d/1_hu4hfLFr-7H0ZpWo7uv9Ful5GdtQ56o/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/18pLAq4zazY9Uj-aGBLRFZP2u3ULNVCSn/view?usp=sharing" target="_blank">
     <img alt="CV" src="https://img.shields.io/badge/View%20CV-FFA500?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </div>
