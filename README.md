@@ -44,6 +44,9 @@
   <a href="https://zenvila.github.io" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge" />
   </a>
+  <a href="https://www.fiverr.com/s/2KjmV7r" target="_blank">
+    <img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
   <a href="mailto:arainharis@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
