@@ -9,33 +9,28 @@
 <h1 align="center">Welcome 👋</h1>
 
 <p align="center">
-  I'm <strong>Haris</strong> aka <strong>Zen</strong>, currently in my <strong>6th semester</strong> of <strong>Computer Science</strong> at <strong>FAST-NUCES</strong> and a member of <strong>COLAB (Research Lab)</strong> in Tier 3.
+  I'm <strong>Haris</strong> aka <strong>Zen</strong>, a <strong>Computer Science Student</strong> at <strong>FAST-NUCES</strong> and a researcher at <strong>COLAB</strong>.
+  <br>
+  I bridge the gap between low-level system programming and high-level AI intelligence.
 </p>
 
 <br>
 
 <p align="left">
- 🔭 I’ve completed my journey in <strong>Web Development</strong>, <strong>System Administration</strong>, and <strong>DevOps</strong> with practical hands-on experience and projects.
+ ✅ <strong>Core Competencies:</strong> Web Development, System Administration, DevOps, and AI/ML.
  <br><br>
- 🌱 I'm currently exploring <strong>AI/ML</strong> — diving into <strong>AI Systems</strong>, <strong>AI with AR/VR</strong>, and <strong>Embedded Intelligence</strong>, while actively improving my <strong>problem-solving techniques</strong>. I’m passionate about blending low-level system programming with real-world applications like autonomous vehicles and aerospace systems.
+ 🔭 <strong>Currently Exploring:</strong> Reinforcement Learning (Hardware Perspective), Embedded Intelligence, and Robotics.
  <br><br>
- 🐧 Proud user of <strong>Arch Linux</strong> | The command line is my playground.
- <br><br>
- 🤖 I'm interested in <strong>Automation & Robotics</strong>. An automation enthusiast on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.
+ 🐧 <strong>Daily Driver:</strong> Proud <strong>Arch Linux</strong> user. The command line is my playground.
 </p>
 
 <h3 align="center">🏆 Certifications</h3>
 
 <p align="center">
   <strong>Oracle Certified Cloud Associate (OCI Foundations 2025)</strong><br>
-  Empowered by Oracle Cloud to design, scale, and automate in the modern cloud era. Exploring cloud architecture, high availability, and distributed systems.
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Oracle%20Cloud%20Certified-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Certified Badge"/>
 </p>
 
-<br>
 <hr>
 
 <h1 align="center">Connect with Me</h1>
