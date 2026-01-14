@@ -9,7 +9,9 @@
 <h1 align="center">Welcome 👋</h1>
 
 <p align="center">
-  I'm <strong>Haris</strong> aka <strong>Zen</strong>, a <strong>Computer Science Student</strong> at <strong>FAST-NUCES</strong> and a researcher at <strong>COLAB</strong>.
+  👋 You can call me <strong>Zen</strong>.
+  <br>
+  I'm a <strong>Computer Science Student</strong> at <strong>FAST-NUCES</strong> and a researcher at <strong>COLAB</strong>.
   <br>
   I bridge the gap between low-level system programming and high-level AI intelligence.
 </p>
