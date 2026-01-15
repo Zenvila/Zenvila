@@ -32,7 +32,7 @@
   <strong>Oracle Certified Cloud Associate (OCI Foundations 2025)</strong><br>
   <img src="https://img.shields.io/badge/Oracle%20Cloud%20Certified-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Certified Badge"/>
   <br><br>
-  <strong>GitHub for Open Standards Development (LFD140)</strong> — <em>The Linux Foundation</em><br>
+  <strong>GitHub for Open Standards Development (LFD140)</strong><br>
   <img src="https://img.shields.io/badge/Linux%20Foundation-LFD140-003883?style=for-the-badge&logo=linux&logoColor=white" alt="LFD140 Badge"/>
 </p>
 
