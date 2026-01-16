@@ -1,17 +1,19 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Haris%20Shahzad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20@%20FAST-NUCES%20%7C%20Researcher%20@%20COLAB&descSize=20&descAlignY=60"/>
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="header"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=8A2BE2&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Haris+Shahzad;Computer+Science+Student;Systems+Programming+Enthusiast;Arch+Linux+User" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Systems+Programming+Enthusiast;Building+Intelligent+AI+Systems;Proud+Arch+Linux+User;DevOps+%26+Cloud+Explorer" alt="Typing Animation"/>
   </a>
+
 </div>
+
+<br>
 
 <h1 align="center">Welcome 👋</h1>
 
 <p align="center">
   👋 You can call me <strong>Zen</strong>.
-  <br>
-  I'm a <strong>Computer Science Student</strong> at <strong>FAST-NUCES</strong> and a researcher at <strong>COLAB</strong>.
   <br>
   I bridge the gap between low-level system programming and high-level AI intelligence.
 </p>
@@ -32,7 +34,7 @@
   <strong>Oracle Certified Cloud Associate (OCI Foundations 2025)</strong><br>
   <img src="https://img.shields.io/badge/Oracle%20Cloud%20Certified-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Certified Badge"/>
   <br><br>
-  <strong>GitHub for Open Standards Development (LFD140)</strong><br>
+  <strong>GitHub for Open Standards Development (LFD140)</strong> — <em>The Linux Foundation</em><br>
   <img src="https://img.shields.io/badge/Linux%20Foundation-LFD140-003883?style=for-the-badge&logo=linux&logoColor=white" alt="LFD140 Badge"/>
 </p>
 
