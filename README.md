@@ -3,7 +3,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Systems+Programming+Enthusiast;Building+Intelligent+AI+Systems;Proud+Arch+Linux+User;DevOps+%26+Cloud+Explorer" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Systems+Programming+Enthusiast;Building+Intelligent+AI+Systems;Arch+Linux+User;DevOps+%26+Cloud+Explorer" alt="Typing Animation"/>
   </a>
 
 </div>
@@ -23,7 +23,7 @@
 <p align="left">
    <strong>Core Competencies:</strong> Web Development, System Administration, DevOps, and AI/ML.<br>
    <strong>Currently Exploring:</strong> Computer Vision, Reinforcement Learning (Hardware Perspective), Embedded Intelligence, and Robotics.<br>
-   <strong>Daily Driver:</strong> Proud <strong>Arch Linux</strong> user. The command line is my playground.
+   <strong>Daily Driver:</strong> <strong>Arch Linux</strong> user. The command line is my playground.
 </p>
 
 <hr>
