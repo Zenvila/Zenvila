@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Haris%20Shahzad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Intern%20@%20Brainswarm%20Robotics%20(@NSTP)%20%7C%20Researcher%20@%20COLAB&descSize=20&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Haris%20Shahzad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20@%20FAST-NUCES%20%7C%20Researcher%20@%20COLAB&descSize=20&descAlignY=60"/>
 
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Systems+Programming+Enthusiast;Building+Intelligent+AI+Systems;Arch+Linux+User;DevOps+%26+Cloud+Explorer" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=8A2BE2&center=true&vCenter=true&width=650&lines=Intern+%40+Brainswarm+Robotics+%7C+%40NSTP;Systems+Programming+Enthusiast;Building+Intelligent+AI+Systems;Arch+Linux+User;DevOps+%26+Cloud+Explorer" alt="Typing Animation"/>
   </a>
 
 </div>
@@ -52,6 +52,12 @@
   </a>
   <a href="https://zenvila.github.io" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0111e8eb5fe7cc1c46?mp_source=share" target="_blank">
+    <img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
+  </a>
+  <a href="https://www.fiverr.com/s/2KjmV7r" target="_blank">
+    <img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
   <a href="mailto:arainharis@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
