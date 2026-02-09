@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Haris%20Shahzad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20@%20FAST-NUCES%20%7C%20Researcher%20@%20COLAB&descSize=20&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Haris%20Shahzad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Intern%20@%20Brainswarm%20Robotics%20(@NSTP)%20%7C%20Researcher%20@%20COLAB&descSize=20&descAlignY=60"/>
 
 <div align="center">
   
@@ -30,6 +30,11 @@
 <h3 align="center">🏆 Certifications</h3>
 
 <p align="center">
+  <strong>Model Context Protocol (MCP) Fundamentals</strong> — <em>Anthropic</em><br>
+  <img src="https://img.shields.io/badge/Anthropic-MCP_Fundamentals-d97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP Badge"/>
+  <br>
+  <em>Focused on Agentic AI workflows, MCP server architecture, and secure local tool integration.</em>
+  <br><br>
   <strong>Oracle Certified Cloud Associate (OCI Foundations 2025)</strong><br>
   <img src="https://img.shields.io/badge/Oracle%20Cloud%20Certified-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Certified Badge"/>
   <br><br>
