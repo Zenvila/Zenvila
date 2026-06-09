@@ -13,18 +13,15 @@
 <h1 align="center">Welcome 👋</h1>
 
 <p align="center">
-  👋 You can call me <strong>Zen</strong>.
+  👋 You can call me <strong>Haris</strong>.
   <br>
-  I bridge the gap between low-level system programming and high-level AI intelligence.
+  I build production AI systems and the cloud infrastructure that keeps them running at scale.
 </p>
-
 <br>
-
 <p align="left">
-   <strong>Core Competencies:</strong> Web Development, System Administration, DevOps, and AI/ML.<br>
-   <strong>Currently Exploring:</strong> Computer Vision, Reinforcement Learning (Hardware Perspective), Embedded Intelligence, and Robotics.<br>
+   <strong>Core Competencies:</strong> AI Engineering, Cloud Infrastructure, Distributed Systems, and Real-Time Backend Development.<br>
+   <strong>Currently Building:</strong> Autonomous AI Agents, LLM Orchestration Pipelines, Big Data Infrastructure, and Voice AI Platforms.<br>
 </p>
-
 <hr>
 
 <h3 align="center">🏆 Certifications</h3>
