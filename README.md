@@ -1,10 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2a4a&height=220&section=header&text=Haris%20Shahzad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Voice%20AI%20%26%20Cloud%20Infrastructure%20Engineer&descSize=20&descAlignY=60"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Haris%20Shahzad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20@%20FAST-NUCES%20%7C%20Researcher%20@%20COLAB&descSize=20&descAlignY=60"/>
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4500&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=Voice+AI+Engineer+%40+Rabtah+AI;LiveKit+%7C+Deepgram+%7C+ElevenLabs+%7C+GPT-4o;Building+Real-Time+AI+Voice+Systems;Cloud+Infrastructure+%7C+GKE+%7C+FastAPI;Final+Year+CS+%40+FAST-NUCES" alt="Typing Animation"/>
-</a>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=8A2BE2&center=true&vCenter=true&width=650&lines=Voice+AI+%26+Cloud+Infra+Engineer+%40+Rabtah+AI;Systems+Programming+Enthusiast;Building+Intelligent+AI+Systems;Arch+Linux+User;DevOps+%26+Cloud+Explorer" alt="Typing Animation"/>
+  </a>
 
 </div>
 
